@@ -1647,4 +1647,4 @@ client.on('message', message => {
   }
  
 
-client.login(process.env.BOT_TOKEN);
+client.login("NTExODU5ODgzMzI3NDg4MDEx.Ds-qVA.sO09dYR6iMcYaqXh7MC1C02cgW4");
